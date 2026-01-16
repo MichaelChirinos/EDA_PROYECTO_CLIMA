@@ -1,4 +1,3 @@
-# EDA_PROYECTO_CLIMA
 # 🌫️ EDA – Análisis de Calidad del Aire (Índice IMECA)
 
 ## 📌 Descripción del Proyecto
