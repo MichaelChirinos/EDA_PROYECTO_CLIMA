@@ -55,8 +55,7 @@ Debido a la imposibilidad de una imputación efectiva, se planificó su eliminac
 
 - Eliminación de columnas PM25  
 - Imputación de valores faltantes restantes mediante interpolación lineal  
-- Estandarización de nombres de columnas (minúsculas, sin acentos, guiones bajos)  
-- Establecer `Fecha-Hora` como índice del DataFrame  
+- Estandarización de nombres de columnas
 - Extracción de variables temporales (año, mes, día de la semana, hora)  
 - Análisis estadístico descriptivo  
 ---
