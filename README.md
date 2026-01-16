@@ -1,6 +1,6 @@
 # EDA_PROYECTO_CLIMA
 Análisis de Datos de Calidad del Aire (Índice IMECA)
-Descripción del Proyecto
+*Descripción del Proyecto
 Este proyecto se enfoca en la limpieza, preprocesamiento y análisis exploratorio de datos históricos de calidad del aire, específicamente los índices IMECA (Índice Metropolitano de la Calidad del Aire), para varias zonas. El objetivo es consolidar y preparar estos datos para futuros análisis de tendencias, patrones de contaminación y modelado predictivo.
 
 Origen de los Datos
